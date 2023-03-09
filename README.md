@@ -6,7 +6,7 @@ Project developed to complete the Frontend Mentor platform beginner challenge
 
 ## Preview
 ### Desktop
-![Design preview for the Stats preview card component coding challenge](./design/desktop-preview.jpg)
+![Design preview for the Stats preview card component coding challenge](./design/desktop-design.jpg)
 
 ### Mobile
-![Design preview for the Stats preview card component coding challenge](./design/mobile-preview.jpg)
+![Design preview for the Stats preview card component coding challenge](./design/mobile-design.jpg)
